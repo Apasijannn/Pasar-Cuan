@@ -34,7 +34,7 @@
 
 [![▶️ TONTON DEMO GAMEPLAY](https://img.shields.io/badge/▶%20TONTON%20DEMO%20GAMEPLAY-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NaTvAf2HT9M)
 
-[![Demo Gameplay Pasar Cuan](https://img.youtube.com/vi/NaTvAf2HT9M/maxresdefault.jpg)](https://www.youtube.com/watch?v=NaTvAf2HT9M)
+[![Demo Gameplay Pasar Cuan](https://img.youtube.com/vi/NaTvAf2HT9M/hqdefault.jpg)](https://www.youtube.com/watch?v=NaTvAf2HT9M)
 
 </div>
 
