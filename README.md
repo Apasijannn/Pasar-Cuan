@@ -272,7 +272,7 @@ Tekan  F5  atau klik ikon ▶ Play di pojok kanan atas Editor
 
 <div align="center">
 
-| <img src="https://github.com/identicons/farras.png" width="80" height="80" style="border-radius:50%"/> | <img src="https://github.com/identicons/jorell.png" width="80" height="80" style="border-radius:50%"/> | <img src="https://github.com/identicons/Apasijannn.png" width="80" height="80" style="border-radius:50%"/> |
+| <img src="https://github.com/identicons/inifarrasori.png" width="80" height="80" style="border-radius:50%"/> | <img src="https://github.com/identicons/Jorell-Ramos-Sinaga.png" width="80" height="80" style="border-radius:50%"/> | <img src="https://github.com/identicons/Apasijannn.png" width="80" height="80" style="border-radius:50%"/> |
 |:---:|:---:|:---:|
 | **Farras Abdurrazaq Ar-Rasyid** | **Jorell Ramos Sinaga** | **Muhammad Dayyan Ghazanfar Latief** |
 | `5025241091` | `5025241202` | `5054241036` |
