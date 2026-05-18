@@ -7,7 +7,7 @@
 
 [![Demo Gameplay Pasar Cuan](https://img.youtube.com/vi/NaTvAf2HT9M/hqdefault.jpg)](https://www.youtube.com/watch?v=NaTvAf2HT9M)
 
-**Pasar Cuan** adalah sebuah permainan simulasi manajemen ekonomi mikro berbasis data yang mengambil latar unik kebudayaan lokal Indonesia, yaitu **Pasar UMKM**. Di game ini, Anda berperan sebagai pengelola kawasan pasar malam yang ditantang untuk mengubah lahan kosong menjadi mesin bisnis yang legendaris dalam batasan waktu **30 Hari**.
+**Pasar Cuan** adalah sebuah permainan simulasi manajemen ekonomi mikro berbasis data yang mengambil latar unik kebudayaan lokal Indonesia, yaitu **Pasar UMKM**. Di game ini, Anda berperan sebagai pengelola kawasan pasar yang ditantang untuk mengubah lahan kosong menjadi mesin bisnis yang legendaris dalam batasan waktu **30 Hari**.
 
 Berbeda dengan game pembangun kota (*city builder*) tradisional yang rumit, *Pasar Cuan* berfokus penuh pada penyusunan tata letak strategis (**Zoning**) dan elastisitas permainan harga (**Pricing**) untuk menguji ketahanan finansial Anda dari serbuan pengunjung pasar yang dinamis.
 
