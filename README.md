@@ -5,7 +5,7 @@
 [![Genre](https://img.shields.io/badge/Genre-Simulation_%2F_Strategy-orange)](#)
 [![Visual Style](https://img.shields.io/badge/Visual_Style-2D_Pixel_Art_Top--Down-purple)](#)
 
-[![Demo Gameplay Pasar Cuan](https://img.youtube.com/vi/NaTvAf2HT9M/hqdefault.jpg)](https://www.youtube.com/watch?v=NaTvAf2HT9M)
+   [![Demo Gameplay Pasar Cuan](https://img.youtube.com/vi/NaTvAf2HT9M/hqdefault.jpg)](https://www.youtube.com/watch?v=NaTvAf2HT9M)
 
 **Pasar Cuan** adalah sebuah permainan simulasi manajemen ekonomi mikro berbasis data yang mengambil latar unik kebudayaan lokal Indonesia, yaitu **Pasar UMKM**. Di game ini, Anda berperan sebagai pengelola kawasan pasar malam yang ditantang untuk mengubah lahan kosong menjadi mesin bisnis yang legendaris dalam batasan waktu **30 Hari**.
 
