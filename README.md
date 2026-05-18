@@ -27,7 +27,7 @@ Kekecewaan massal (seperti munculnya *emoji* 😠 *Mahal!* atau 😠 *Antre!*) t
 Permainan berjalan dalam ritme harian yang memisahkan wewenang perencanaan dan simulasi secara mekanis:
 * **🌅 Fase Pagi (Perencanaan):** Waktu berhenti total (*pause*). Anda bebas membaca prediksi tren harian dari Asisten Pintar, membeli lapak baru, mengatur posisi bangunan agar areanya (AoE) menyentuh trotoar, dan menetapkan slider harga produk.
 * **☀️ Fase Siang (Simulasi):** Pasar dibuka dan Anda kehilangan kontrol interaksi. Tugas Anda murni mengobservasi pergerakan agen, membaca keluhan lewat *emoji* melayang, dan mengumpulkan metrik performa secara langsung.
-* **🌙 Fase Malam (Evaluasi Keuangan):** Waktu kembali berhenti untuk proses audit buku harian. Biaya operasional (OpEx) dipotong secara otomatis, dan grafik laporan performa disajikan bersama kritik tajam atau pujian dari **AI Advisor**.
+* **🌙 Fase Malam (Evaluasi Keuangan):** Waktu kembali berhenti untuk proses audit buku harian. Biaya operasional (OpEx) dipotong secara otomatis, dan laporan performa disajikan bersama kritik tajam atau pujian dari **AI Advisor**.
 
 ### 3. Sistem Ekonomi Makro yang Kejam & Dinamis
 * **Target Kemenangan Bergerak (*High-Water Mark*):** Syarat menang di Hari ke-30 bukan angka statis. Target uang tunai Anda ditetapkan sebesar **1,5x lipat dari rekor nilai aset tertinggi** yang pernah Anda miliki. Semakin rakus Anda membangun, semakin besar target tabungan akhir bulan Anda!
